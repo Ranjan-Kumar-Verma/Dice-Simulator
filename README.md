@@ -1,3 +1,7 @@
 # Dice-_Simulator
-This is a dice simulator made by python using pygame. 
-![](Dice%20simulator/Screenshot from 2022-06-26 01-15-59.png)
+This is a dice simulator made by python using pygame module. 
+
+<img src="Dice%20simulator/Screenshot%20from%202022-06-26%2001-15-59.png" margin="auto"> 
+<div><br></div>
+<img src="Dice%20simulator/Screenshot_dice_five.png" margin="auto"> 
+<!-- ![](Dice%20simulator/Screenshot%20from%202022-06-26%2001-15-59.png) -->
